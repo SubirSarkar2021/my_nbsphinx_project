@@ -15,5 +15,7 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-   Notebooks/DiracDeltaFunction.ipynb
+   Notebooks/DiracDeltaFunction
+   Notebooks/FourierSeriesSawToothWave
+   Notebooks/FourierSeriesSquareWave
 
